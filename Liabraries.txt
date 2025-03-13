@@ -1,0 +1,10 @@
+pip install prettytable
+
+pip install playsound==1.2.2
+
+pip install qrcode
+
+pip install camelCase
+
+pip install image
+
